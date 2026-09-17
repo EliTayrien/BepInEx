@@ -10,7 +10,7 @@
 
 # LINUX: name of Unity executable
 # MACOS: name of the .app directory
-executable_name="valheim.x86_64"
+executable_name="Valheim.x86_64"
 
 # All of the below can be overriden with command line args
 
